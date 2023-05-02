@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  font-size: large;
+  padding: 0.5rem 1rem;
+  background-color: #5affd8;
+  border: 1px solid black;
+  margin: 2rem 0;
+  border-radius: 0.2rem;
+}
+input {
+  width: 2rem;
+}
